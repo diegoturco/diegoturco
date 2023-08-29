@@ -1,6 +1,6 @@
 ### Hi there 🤙
 
-I'm Diego Turco, and I'm a Software Engineer at Iteris and I've been working in tech since 2010.
+I'm Diego Turco, and I'm a Software Engineer at Exo Mindset and I've been working in tech since 2010.
 
 ## ⚡ Technologies
 
